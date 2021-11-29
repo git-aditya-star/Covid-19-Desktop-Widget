@@ -1,0 +1,22 @@
+pack/datafetch/model/CovidDataModel.java
+ pack.datafetch.model.CovidDataModel
+pack/datafetch/DataProviderService.java
+ pack.datafetch.DataProviderService
+ pack.datafetch.DataProviderService$1
+ pack.datafetch.DataProviderService$2
+pack/Main.java
+ pack.Main
+pack/config/ConfigModel.java
+ pack.config.ConfigModel
+pack/config/ConfigurationService.java
+ pack.config.ConfigurationService
+pack/gui/Launch.java
+ pack.gui.Launch
+pack/datafetch/CovidApi.java
+ pack.datafetch.CovidApi
+pack/datafetch/model/GlobalData.java
+ pack.datafetch.model.GlobalData
+pack/gui/widget/WidgetController.java
+ pack.gui.widget.WidgetController
+pack/datafetch/model/CountryData.java
+ pack.datafetch.model.CountryData
